@@ -55,7 +55,7 @@ export default function Home() {
           </div>
 
           <img
-            src="https://scontent.fosu2-2.fna.fbcdn.net/v/t39.30808-6/467630189_122120387624548198_2710548949970733922_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Y_02Bj7HUbUQ7kNvwHm3B-6&_nc_oc=AdlYHqa2LMatLGptLeG0IU8JSeCt0LMcqjDCNs5QCd_v7rbUW8Ww8Xn8wfidmIUp0rpneINyWf-6H2I11n1CShdj&_nc_zt=23&_nc_ht=scontent.fosu2-2.fna&_nc_gid=rPBmASWdgtGucLBhJ2kqKA&oh=00_Afr7wqU4ZHULl3nZy8pwxNtqRnD4-xHohieA6G9TQwZCww&oe=6961BA1B"
+            src="upcellpic.jpg"
             alt="Device repair"
             className="rounded-3xl shadow-2xl object-cover animate-fade-in"
           />
